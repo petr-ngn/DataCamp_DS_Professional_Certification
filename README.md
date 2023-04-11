@@ -1,1 +1,1 @@
-# DataCamp_DS_Professional_Certification
+# DataCamp Data Scientist Professional Certification
